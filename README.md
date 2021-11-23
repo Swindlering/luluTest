@@ -23,7 +23,7 @@ Within 2 - 3 hours, develop an API
 
 1. Clone the repository:
 
-`git clone https://github.com/Swindlering/recommerceCodingTest.git`
+`git clone https://github.com/Swindlering/luluTest.git`
 
 2. Switch to the repository folder:
 
@@ -34,28 +34,3 @@ Within 2 - 3 hours, develop an API
 `bin/console doctrine:migrations:migrate`
 
 4. check your database by connection
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`php -f script.php `
-
-4. On your web browser, go to (with Apache)
-    * copy  momji_PHP to /var/www/html/ (Ubuntu)
-    * `http://localhost/momji/`
-
-5. On your web browser, go to (with Visual studio Code)
-    * Install extension `live Server`
-    * open `index.html`
-    * Right click and select `Open wih live Server`
